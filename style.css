@@ -1,21 +1,17 @@
-.bg {
-  background-color: white;
-  height:200px;
-  z-index: -2;
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+html,body{
+  margin:0;
+  padding: 0;
+  height:100%;
+  width: 100%;
 }
-.apple{
-  position: relative;
-  left:260px;
-  z-index: 1;
-}
-.face{
-  position: fixed;
-  bottom:200px;
-  z-index: 3;
-  left:200px;
-}
-.box {
-  background-color: white;
-  height:3000px;
-  z-index: -2;
+#intro{
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  background: url("mountain.jpg");
+  display: table;
+  top:0;
+  background-size: cover;
 }
