@@ -1,0 +1,101 @@
+
+body {
+  background-size: cover;
+  font-family: Futura;
+  background-color: #182942;
+}
+
+ul {
+  margin: 0px;
+  padding-top: 0px;
+  list-style: none;
+}
+
+ul li {
+  float: left;
+  width: 220px;
+  height: 60px;
+  border-width: thick;
+  border-color: red;
+  line-height: 40px;
+  text-align: center;
+  font-size: 25px;
+  padding-top: 22px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+ul li a:hover {
+  color: red;
+}
+
+#TEDxLogo {
+  height: 100px;
+  width: auto;
+}
+
+#PageHeadline {
+  background-color: #416999;
+  position: fixed;
+  margin-top: -15px;
+  width: 100%;
+  height: 220px;
+  margin-left: -8px;
+}
+
+#navbar {
+  width: 1000px;
+  height: 80px;
+  border: 1px solid white;
+  overflow: hidden;
+}
+
+#navbar>li {
+  width: 180px;
+}
+
+li>a {
+  display: block;
+  color: white;
+  line-height: 40px;
+  font-family: Jura;
+  font-size: 20px;
+  text-decoration: none;
+}
+#p1{
+  font-family: sans-serif;
+  color: white;
+  padding-top: 250px;
+  width: 800px;
+}
+.paragraph {
+  font-family: sans-serif;
+  color: white;
+  padding-top: 50px;
+  width: 800px;
+}
+
+#camera {
+  height: auto;
+  width: 100%;
+  padding-top: 50px;
+}
+
+.text {
+  font-size: 18px;
+  text-align: justify;
+  text-justify: distribute;
+}
+
+.headline {
+  font-size: 28px;
+  text-align: left;
+}
+#footer{
+  width: 100%;
+  height: 100px;
+  color:#182942;
+}
