@@ -117,7 +117,7 @@ li>a {
 }
 
 .img-1 {
-  background: url("beatriz.jpg");
+  background: url("beatriz.JPG");
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -127,7 +127,7 @@ li>a {
 }
 
 .img-2 {
-  background-image: url('eman.jpg');
+  background-image: url('eman.JPG');
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -147,7 +147,7 @@ li>a {
 }
 
 .img-4 {
-  background-image: url('olivia.jpg');
+  background-image: url('olivia.JPG');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -157,7 +157,7 @@ li>a {
 }
 
 .img-5 {
-  background-image: url('ian.jpg');
+  background-image: url('ian.JPG');
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -167,7 +167,7 @@ li>a {
 }
 
 .img-6 {
-  background-image: url('gurnaz.jpg');
+  background-image: url('gurnaz.JPG');
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -186,7 +186,7 @@ li>a {
   background: none;
 }
 .img-8 {
-  background-image: url('daniel.jpg');
+  background-image: url('daniel.JPG');
   background-repeat: no-repeat;
   background-size: contain;
 }
